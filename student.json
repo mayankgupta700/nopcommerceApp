@@ -1,0 +1,26 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "Ben",
+      "location": "india",
+      "phone": "7505873700",
+      "courses": [
+        "java",
+        "selenium"
+      ],
+      "age": 22
+    },
+    {
+      "id": "2",
+      "name": "rahul",
+      "location": "india",
+      "phone": "7505343700",
+      "courses": [
+        "python",
+        "json"
+      ],
+      "age": 25
+    }
+  ]
+}

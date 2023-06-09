@@ -1,0 +1,429 @@
+2023-05-23 12:47:21,477 - root - INFO - ***********************Test_001_login***************************
+2023-05-23 12:47:21,477 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-23 12:47:24,848 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-23 12:47:27,999 - root - INFO - *******************Verifying login TC**********************
+2023-05-23 12:47:33,595 - root - INFO - *****************Login TC is Passed**********************
+2023-05-23 13:22:57,644 - root - INFO - ***********************Test_001_login***************************
+2023-05-23 13:22:57,647 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-23 13:23:03,110 - root - INFO - *******************Verifying login TC**********************
+2023-05-23 17:54:25,850 - root - INFO - ***********************Test_001_login***************************
+2023-05-23 17:54:25,851 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-23 17:54:25,962 - root - INFO - *******************Verifying login TC**********************
+2023-05-23 17:57:12,191 - root - INFO - ***********************Test_001_login***************************
+2023-05-23 17:57:12,192 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-23 17:57:12,291 - root - INFO - *******************Verifying login TC**********************
+2023-05-23 17:59:45,088 - root - INFO - ***********************Test_001_login***************************
+2023-05-23 17:59:45,088 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-23 17:59:47,742 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-23 17:59:50,868 - root - INFO - *******************Verifying login TC**********************
+2023-05-23 17:59:55,695 - root - INFO - *****************Login TC is Passed**********************
+2023-05-23 18:48:06,891 - root - INFO - ***********************Test_001_login***************************
+2023-05-23 18:48:06,892 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-23 18:48:08,974 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-23 18:48:12,545 - root - INFO - *******************Verifying login TC**********************
+2023-05-23 18:48:17,827 - root - INFO - *****************Login TC is Passed**********************
+2023-05-23 22:07:03,353 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 22:07:15,489 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 22:09:20,432 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 22:09:23,259 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 22:15:21,745 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 22:15:24,568 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 22:16:37,965 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 22:16:40,736 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 22:30:02,906 - root - INFO - ***********************Test_001_login***************************
+2023-05-23 22:30:02,906 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-23 22:30:06,192 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-23 22:30:09,781 - root - INFO - *******************Verifying login TC**********************
+2023-05-23 22:30:19,088 - root - INFO - *****************Login TC is Passed**********************
+2023-05-25 07:25:09,602 - root - INFO - ***********************Test_001_login***************************
+2023-05-25 07:25:09,603 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-25 07:25:12,369 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-25 07:25:16,257 - root - INFO - *******************Verifying login TC**********************
+2023-05-25 07:25:23,865 - root - INFO - *****************Login TC is Passed**********************
+2023-05-25 22:29:53,925 - root - INFO - ***********************Test_001_login***************************
+2023-05-25 22:29:53,925 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-25 22:29:57,303 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-25 22:30:02,085 - root - INFO - *******************Verifying login TC**********************
+2023-05-25 22:30:10,194 - root - INFO - *****************Login TC is Passed**********************
+2023-05-26 17:16:11,831 - root - INFO - ***********************Test_001_login***************************
+2023-05-26 17:16:11,831 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-26 17:16:13,775 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-26 17:16:17,374 - root - INFO - *******************Verifying login TC**********************
+2023-05-26 17:16:21,855 - root - INFO - *****************Login TC is Passed**********************
+2023-05-26 17:18:05,205 - root - INFO - **************test_login_ddt************
+2023-05-26 17:18:05,205 - root - INFO - *******************Verifying login TC**********************
+2023-05-26 17:28:10,821 - root - INFO - **************test_login_ddt************
+2023-05-26 17:28:10,822 - root - INFO - *******************Verifying login TC**********************
+2023-05-26 17:28:59,444 - root - INFO - **************test_login_ddt************
+2023-05-26 17:28:59,445 - root - INFO - *******************Verifying login TC**********************
+2023-05-26 17:29:10,117 - root - INFO - *****************Login TC is Passed**********************
+2023-05-26 17:32:27,154 - root - INFO - **************test_login_ddt************
+2023-05-26 17:32:27,154 - root - INFO - *******************Verifying login TC**********************
+2023-05-26 17:32:36,864 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 14:32:25,360 - root - INFO - **************test_login_ddt************
+2023-05-27 14:32:25,361 - root - INFO - *******************Verifying login TC**********************
+2023-05-27 14:32:41,137 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 14:38:14,566 - root - INFO - ***********************Test_001_login***************************
+2023-05-27 14:38:14,566 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-27 14:38:18,710 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-27 14:38:22,385 - root - INFO - *******************Verifying login TC**********************
+2023-05-27 14:38:36,171 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 14:43:54,509 - root - INFO - **************test_login_ddt************
+2023-05-27 14:43:54,509 - root - INFO - *******************Verifying login TC**********************
+2023-05-27 14:44:06,710 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 14:48:08,822 - root - INFO - **************test_login_ddt************
+2023-05-27 14:48:08,822 - root - INFO - *******************Verifying login TC**********************
+2023-05-27 14:48:19,313 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 14:51:38,773 - root - INFO - **************test_login_ddt************
+2023-05-27 14:51:38,781 - root - INFO - *******************Verifying login TC**********************
+2023-05-27 14:51:50,125 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 14:51:59,092 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000261633CA110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f0e60cb28550d8830c2240fbed34686e/element
+2023-05-27 14:52:03,150 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000261637D0A10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f0e60cb28550d8830c2240fbed34686e/element
+2023-05-27 14:52:07,213 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000261637DE750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f0e60cb28550d8830c2240fbed34686e/element
+2023-05-27 14:54:51,858 - root - INFO - **************test_login_ddt************
+2023-05-27 14:54:51,858 - root - INFO - *******************Verifying login TC**********************
+2023-05-27 14:55:01,078 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 14:55:07,397 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C19067E310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ce6ce94c929197daa9f5a1547e8bab57/element
+2023-05-27 14:55:11,448 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C1906B1310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ce6ce94c929197daa9f5a1547e8bab57/element
+2023-05-27 14:55:15,509 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C1906BE1D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ce6ce94c929197daa9f5a1547e8bab57/element
+2023-05-27 16:43:36,475 - root - INFO - **************test_login_ddt************
+2023-05-27 16:43:36,477 - root - INFO - *******************Verifying login TC**********************
+2023-05-27 16:43:45,655 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 16:43:53,381 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023556D83F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4873e5621a4b0a448ab9b9860ae7a60f/element
+2023-05-27 16:43:57,438 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023556D9DC50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4873e5621a4b0a448ab9b9860ae7a60f/element
+2023-05-27 16:44:01,493 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023556D9CDD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4873e5621a4b0a448ab9b9860ae7a60f/element
+2023-05-27 17:06:51,312 - root - INFO - **************test_login_ddt************
+2023-05-27 17:06:51,312 - root - INFO - *******************Verifying login TC**********************
+2023-05-27 17:07:00,580 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 17:21:06,355 - root - INFO - **************test_login_ddt************
+2023-05-27 17:21:06,355 - root - INFO - *******************Verifying login TC**********************
+2023-05-27 17:21:16,956 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 17:24:53,155 - root - INFO - **************test_login_ddt************
+2023-05-27 17:24:53,155 - root - INFO - *******************Verifying login TC**********************
+2023-05-27 17:24:59,023 - root - INFO - *****************Login TC is Passed**********************
+2023-05-27 17:25:06,767 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019699CD2A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/30c8559e448656759f7b75d714023247/element
+2023-05-27 17:25:10,825 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019699CFC3D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/30c8559e448656759f7b75d714023247/element
+2023-05-27 17:25:14,893 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019699D0E010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/30c8559e448656759f7b75d714023247/element
+2023-05-28 07:58:03,637 - root - INFO - **************test_login_ddt************
+2023-05-28 07:58:03,638 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 07:58:11,534 - root - INFO - *****************Login TC is Passed**********************
+2023-05-28 07:58:19,714 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028900C8FD50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f3b61cbee8218f910925b0d125b97257/url
+2023-05-28 07:58:23,791 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028900CAB290>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f3b61cbee8218f910925b0d125b97257/url
+2023-05-28 07:58:27,863 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028900CAFBD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f3b61cbee8218f910925b0d125b97257/url
+2023-05-28 08:01:30,977 - root - INFO - **************test_login_ddt************
+2023-05-28 08:01:30,977 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 08:01:40,111 - root - INFO - *****************Login TC is Passed**********************
+2023-05-28 08:01:51,051 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000127AAD0F010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/61fa2f681d77b14d18823c861a758afc/url
+2023-05-28 08:01:55,119 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000127AAD2CDD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/61fa2f681d77b14d18823c861a758afc/url
+2023-05-28 08:01:59,241 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000127AAD2C650>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/61fa2f681d77b14d18823c861a758afc/url
+2023-05-28 08:07:40,170 - root - INFO - **************test_login_ddt************
+2023-05-28 08:07:40,170 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 08:07:48,396 - root - INFO - *****************Login TC is Passed********11**************
+2023-05-28 08:07:59,107 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000204E8042C90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/888808d5f57ce004132c6e899ba206b3/url
+2023-05-28 08:08:03,216 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000204E805D350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/888808d5f57ce004132c6e899ba206b3/url
+2023-05-28 08:08:07,294 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000204E805DF50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/888808d5f57ce004132c6e899ba206b3/url
+2023-05-28 08:47:01,982 - root - INFO - **************test_login_ddt************
+2023-05-28 08:47:01,982 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 08:47:14,144 - root - INFO - *****************Login TC is Passed********11**************
+2023-05-28 09:19:07,678 - root - INFO - **************test_login_ddt************
+2023-05-28 09:19:07,679 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 09:19:17,914 - root - INFO - *****************Login TC is Passed********11**************
+2023-05-28 09:23:38,392 - root - INFO - **************test_login_ddt************
+2023-05-28 09:23:38,392 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 09:23:49,089 - root - INFO - *****************Login TC is Passed********11**************
+2023-05-28 09:28:19,027 - root - INFO - **************test_login_ddt************
+2023-05-28 09:28:19,027 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 09:28:29,659 - root - INFO - *****************Login TC is Passed********11**************
+2023-05-28 09:29:44,132 - root - INFO - **************test_login_ddt************
+2023-05-28 09:29:44,135 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 09:43:51,879 - root - INFO - **************test_login_ddt************
+2023-05-28 09:43:51,881 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 09:44:28,843 - root - INFO - **************test_login_ddt************
+2023-05-28 09:44:28,844 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 09:44:39,416 - root - INFO - *****************Login TC is Passed********11**************
+2023-05-28 10:01:35,187 - root - INFO - **************test_login_ddt************
+2023-05-28 10:01:35,188 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 10:01:45,630 - root - INFO - *****************Login TC is Passed********11**************
+2023-05-28 12:56:44,492 - root - INFO - ***********************Test_001_login***************************
+2023-05-28 12:56:44,492 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-28 12:56:46,260 - root - ERROR - *****************Homepage_Title TC is failed**********************
+2023-05-28 12:56:50,239 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 12:59:15,767 - root - INFO - ***********************Test_001_login***************************
+2023-05-28 12:59:15,768 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-28 12:59:17,635 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-28 12:59:21,221 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 13:02:04,722 - root - INFO - ***********************Test_001_login***************************
+2023-05-28 13:02:04,722 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-28 13:02:06,396 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-28 13:02:09,979 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 13:03:53,554 - root - INFO - ***********************Test_001_login***************************
+2023-05-28 13:03:53,554 - root - INFO - *******Verifying Homepage Title***************************
+2023-05-28 13:03:55,302 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-05-28 13:03:58,877 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 13:04:04,150 - root - INFO - *****************Login TC is Passed**********************
+2023-05-28 13:10:49,820 - root - INFO - **************test_login_ddt************
+2023-05-28 13:10:49,821 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 13:10:57,960 - root - INFO - *****************Login TC is Failed**********************
+2023-05-28 13:11:06,258 - root - INFO - *****************Login TC is Passed*******12***************
+2023-05-28 13:11:11,455 - root - INFO - *****************Login TC is Failed**********************
+2023-05-28 13:11:19,787 - root - INFO - *****************Login TC is Passed*******12***************
+2023-05-28 13:13:11,958 - root - INFO - **************test_login_ddt************
+2023-05-28 13:13:11,958 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 13:13:20,381 - root - INFO - *****************Login TC is Failed**********************
+2023-05-28 13:13:28,770 - root - INFO - *****************Login TC is Passed*******12***************
+2023-05-28 13:13:34,482 - root - INFO - *****************Login TC is Failed**********************
+2023-05-28 13:13:42,826 - root - INFO - *****************Login TC is Passed*******12***************
+2023-05-28 15:13:59,485 - root - INFO - **************test_login_ddt************
+2023-05-28 15:13:59,485 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 15:14:08,270 - root - INFO - *****************Login TC is Failed**********************
+2023-05-28 15:14:16,647 - root - INFO - *****************Login TC is Passed*******12***************
+2023-05-28 15:14:22,423 - root - INFO - *****************Login TC is Failed**********************
+2023-05-28 15:14:30,775 - root - INFO - *****************Login TC is Passed*******12***************
+2023-05-28 15:14:30,775 - root - INFO - *****Login DDT is FAILED******
+2023-05-28 15:15:09,205 - root - INFO - **************test_login_ddt************
+2023-05-28 15:15:09,205 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 15:15:17,800 - root - INFO - *****************Login TC is Failed**********************
+2023-05-28 15:15:26,180 - root - INFO - *****************Login TC is Passed*******12***************
+2023-05-28 15:15:31,933 - root - INFO - *****************Login TC is Failed**********************
+2023-05-28 15:15:40,258 - root - INFO - *****************Login TC is Passed*******12***************
+2023-05-28 15:15:40,258 - root - INFO - *****Login DDT is FAILED******
+2023-05-28 15:18:40,724 - root - INFO - **************test_login_ddt************
+2023-05-28 15:18:40,724 - root - INFO - *******************Verifying login TC**********************
+2023-05-28 15:18:49,933 - root - INFO - *****************Login TC is Passed********11**************
+2023-05-28 15:18:57,687 - root - INFO - *****************Login TC is Passed*******12***************
+2023-05-28 15:19:02,406 - root - INFO - *****************Login TC is Passed********11**************
+2023-05-28 15:19:10,502 - root - INFO - *****************Login TC is Passed*******12***************
+2023-05-28 15:19:10,502 - root - INFO - *********Login DDT is PASSED*********
+2023-05-30 13:11:07,069 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 13:12:40,582 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 13:16:57,584 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 13:17:03,679 - root - INFO - ***********Login Successful*************
+2023-05-30 18:29:38,064 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:29:43,414 - root - INFO - ***********Login Successful*************
+2023-05-30 18:33:51,929 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:33:57,645 - root - INFO - ***********Login Successful*************
+2023-05-30 18:35:30,979 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:35:36,982 - root - INFO - ***********Login Successful*************
+2023-05-30 18:37:39,398 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:37:46,156 - root - INFO - ***********Login Successful*************
+2023-05-30 18:38:08,398 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:38:14,392 - root - INFO - ***********Login Successful*************
+2023-05-30 18:39:10,600 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:39:14,625 - root - INFO - ***********Login Successful*************
+2023-05-30 18:39:53,331 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:39:59,686 - root - INFO - ***********Login Successful*************
+2023-05-30 18:49:09,105 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:49:15,676 - root - INFO - ***********Login Successful*************
+2023-05-30 18:51:12,566 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:51:16,070 - root - INFO - ***********Login Successful*************
+2023-05-30 18:58:14,411 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:58:21,384 - root - INFO - ***********Login Successful*************
+2023-05-30 18:59:34,827 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 18:59:39,092 - root - INFO - ***********Login Successful*************
+2023-05-30 19:03:45,366 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 19:03:50,522 - root - INFO - ***********Login Successful*************
+2023-05-30 19:11:30,415 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 19:11:38,234 - root - INFO - ***********Login Successful*************
+2023-05-30 19:42:19,331 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 19:42:25,354 - root - INFO - ***********Login Successful*************
+2023-05-30 20:05:52,026 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 20:06:53,415 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 20:07:02,848 - root - INFO - ***********Login Successful*************
+2023-05-30 20:07:48,078 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 20:07:55,585 - root - INFO - ***********Login Successful*************
+2023-05-30 20:08:43,819 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 20:08:51,725 - root - INFO - ***********Login Successful*************
+2023-05-30 20:12:31,653 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 20:12:41,583 - root - INFO - ***********Login Successful*************
+2023-05-30 20:14:23,238 - root - INFO - ********Test_003_AddCustomer**********
+2023-05-30 20:14:30,531 - root - INFO - ***********Login Successful*************
+2023-06-05 12:38:38,629 - root - INFO - ***********************Test_001_login***************************
+2023-06-05 12:38:38,654 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-05 12:38:40,729 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-05 12:38:45,081 - root - INFO - *******************Verifying login TC**********************
+2023-06-05 12:38:55,685 - root - INFO - *****************Login TC is Passed**********************
+2023-06-05 18:11:11,057 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-05 18:12:18,314 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-05 18:27:44,043 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-05 18:32:24,834 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-05 18:34:11,929 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-05 18:38:57,354 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-05 18:39:06,412 - root - INFO - ************Test Case FAILED************
+2023-06-05 18:42:16,601 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-05 18:42:24,862 - root - INFO - ************Test Case FAILED************
+2023-06-05 18:43:01,563 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-05 18:43:12,741 - root - INFO - ************Test Case FAILED************
+2023-06-07 19:10:34,276 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-07 19:10:41,395 - root - INFO - ***********Login Successful*************
+2023-06-07 19:27:10,671 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-07 19:27:17,486 - root - INFO - ***********Login Successful*************
+2023-06-07 19:30:59,158 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-07 19:31:06,508 - root - INFO - ***********Login Successful*************
+2023-06-07 19:31:09,322 - root - INFO - **********TC IS PASSED**********
+2023-06-07 19:48:03,423 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-07 19:48:08,449 - root - INFO - ***********Login Successful*************
+2023-06-07 19:48:10,518 - root - INFO - **********TC IS PASSED**********
+2023-06-09 18:27:49,734 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:27:49,734 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:27:49,734 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:27:49,734 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:27:49,735 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:27:49,735 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:27:49,735 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:27:49,735 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:27:51,282 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:27:51,282 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:27:51,282 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:27:51,282 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:28:18,071 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:28:18,071 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:28:18,071 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:28:18,071 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:28:18,071 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:28:18,071 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:28:18,071 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:28:18,071 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:28:19,440 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:28:19,440 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:28:19,440 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:28:19,440 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:28:23,221 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:28:23,221 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:28:23,221 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:28:23,221 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:28:33,612 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:28:33,612 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:28:33,612 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:28:33,612 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:28:37,843 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:28:37,843 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:28:37,843 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:28:37,843 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:28:41,934 - root - INFO - ***********Login Successful*************
+2023-06-09 18:28:41,934 - root - INFO - ***********Login Successful*************
+2023-06-09 18:28:41,934 - root - INFO - ***********Login Successful*************
+2023-06-09 18:28:41,934 - root - INFO - ***********Login Successful*************
+2023-06-09 18:28:44,079 - root - INFO - **********TC IS PASSED**********
+2023-06-09 18:28:44,079 - root - INFO - **********TC IS PASSED**********
+2023-06-09 18:28:44,079 - root - INFO - **********TC IS PASSED**********
+2023-06-09 18:28:44,079 - root - INFO - **********TC IS PASSED**********
+2023-06-09 18:48:34,726 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:48:34,726 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:48:34,726 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:48:34,726 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:48:34,727 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:48:34,727 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:48:34,727 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:48:34,727 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:48:36,355 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:48:36,355 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:48:36,355 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:48:36,355 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:48:39,971 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:48:39,971 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:48:39,971 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:48:39,971 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:48:50,797 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:48:50,797 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:48:50,797 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:48:50,797 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:48:54,659 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:48:54,659 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:48:54,659 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:48:54,659 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:48:58,438 - root - INFO - ***********Login Successful*************
+2023-06-09 18:48:58,438 - root - INFO - ***********Login Successful*************
+2023-06-09 18:48:58,438 - root - INFO - ***********Login Successful*************
+2023-06-09 18:48:58,438 - root - INFO - ***********Login Successful*************
+2023-06-09 18:49:00,778 - root - INFO - **********TC IS PASSED**********
+2023-06-09 18:49:00,778 - root - INFO - **********TC IS PASSED**********
+2023-06-09 18:49:00,778 - root - INFO - **********TC IS PASSED**********
+2023-06-09 18:49:00,778 - root - INFO - **********TC IS PASSED**********
+2023-06-09 18:58:46,545 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:58:46,545 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:58:46,545 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:58:46,545 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 18:58:46,546 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:58:46,546 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:58:46,546 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:58:46,546 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 18:58:48,218 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:58:48,218 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:58:48,218 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:58:48,218 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 18:58:51,901 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:58:51,901 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:58:51,901 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:58:51,901 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 18:59:02,630 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:59:02,630 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:59:02,630 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:59:02,630 - root - INFO - ************Test Case FAILED************
+2023-06-09 18:59:06,409 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:59:06,409 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:59:06,409 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:59:06,409 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 18:59:12,072 - root - INFO - ***********Login Successful*************
+2023-06-09 18:59:12,072 - root - INFO - ***********Login Successful*************
+2023-06-09 18:59:12,072 - root - INFO - ***********Login Successful*************
+2023-06-09 18:59:12,072 - root - INFO - ***********Login Successful*************
+2023-06-09 19:01:15,392 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 19:01:15,392 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 19:01:15,392 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 19:01:15,392 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 19:01:15,392 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 19:01:15,392 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 19:01:15,392 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 19:01:15,392 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 19:01:16,965 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 19:01:16,965 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 19:01:16,965 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 19:01:16,965 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 19:01:20,531 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 19:01:20,531 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 19:01:20,531 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 19:01:20,531 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 19:01:30,804 - root - INFO - ************Test Case FAILED************
+2023-06-09 19:01:30,804 - root - INFO - ************Test Case FAILED************
+2023-06-09 19:01:30,804 - root - INFO - ************Test Case FAILED************
+2023-06-09 19:01:30,804 - root - INFO - ************Test Case FAILED************
+2023-06-09 19:01:34,530 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 19:01:34,530 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 19:01:34,530 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 19:01:34,530 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 19:01:41,759 - root - INFO - ***********Login Successful*************
+2023-06-09 19:01:41,759 - root - INFO - ***********Login Successful*************
+2023-06-09 19:01:41,759 - root - INFO - ***********Login Successful*************
+2023-06-09 19:01:41,759 - root - INFO - ***********Login Successful*************
+2023-06-09 19:07:08,028 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 19:07:08,028 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 19:07:08,028 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 19:07:08,028 - root - INFO - ***********************Test_001_login***************************
+2023-06-09 19:07:08,028 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 19:07:08,028 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 19:07:08,028 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 19:07:08,028 - root - INFO - *******Verifying Homepage Title***************************
+2023-06-09 19:07:09,559 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 19:07:09,559 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 19:07:09,559 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 19:07:09,559 - root - INFO - *****************Homepage_Title TC is passed**********************
+2023-06-09 19:07:13,779 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 19:07:13,779 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 19:07:13,779 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 19:07:13,779 - root - INFO - **********Test_004_naya customer Initiated***********
+2023-06-09 19:07:24,149 - root - INFO - ************Test Case FAILED************
+2023-06-09 19:07:24,149 - root - INFO - ************Test Case FAILED************
+2023-06-09 19:07:24,149 - root - INFO - ************Test Case FAILED************
+2023-06-09 19:07:24,149 - root - INFO - ************Test Case FAILED************
+2023-06-09 19:07:28,542 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 19:07:28,542 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 19:07:28,542 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 19:07:28,542 - root - INFO - ********Test_003_Search_Customer**********
+2023-06-09 19:07:32,451 - root - INFO - ***********Login Successful*************
+2023-06-09 19:07:32,451 - root - INFO - ***********Login Successful*************
+2023-06-09 19:07:32,451 - root - INFO - ***********Login Successful*************
+2023-06-09 19:07:32,451 - root - INFO - ***********Login Successful*************
+2023-06-09 19:07:34,329 - root - INFO - **********TC IS PASSED**********
+2023-06-09 19:07:34,329 - root - INFO - **********TC IS PASSED**********
+2023-06-09 19:07:34,329 - root - INFO - **********TC IS PASSED**********
+2023-06-09 19:07:34,329 - root - INFO - **********TC IS PASSED**********
